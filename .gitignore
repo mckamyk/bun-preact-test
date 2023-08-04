@@ -115,7 +115,8 @@ out
 # Nuxt.js build / generate output
 
 .nuxt
-dist
+# allowing dist to be added for demo
+# dist
 
 # Gatsby files
 
