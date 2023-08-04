@@ -5,8 +5,8 @@ Currently `v0.7.0`, Bun's bundler nor the package manager seems to respect the `
 ```json
 {
 	"dependecies": {
-    "@preact/compat": "^17.1.2",
-    "preact": "^10.16.0",
+		"@preact/compat": "^17.1.2",
+		"preact": "^10.16.0",
 		"react": "npm:@preact/compat",
 		"react-dom": "npm:@preact/compat"
 	}
