@@ -1,5 +1,4 @@
 import {useEffect} from 'react';
-import ReactDOM from 'react-dom';
 
 export const Test = () => {
 	useEffect(() => {

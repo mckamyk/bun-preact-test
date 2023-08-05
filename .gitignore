@@ -116,7 +116,7 @@ out
 
 .nuxt
 # allowing dist to be added for demo
-# dist
+dist
 
 # Gatsby files
 

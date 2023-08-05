@@ -4,13 +4,9 @@
   "type": "module",
   "dependencies": {
     "@preact/compat": "^17.1.2",
-    "preact": "^10.16.0",
-    "react": "npm:@preact/compat",
-    "react-dom": "npm:@preact/compat"
+    "preact": "^10.16.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.18",
-    "@types/react-dom": "^18.2.7",
     "bun-types": "latest"
   },
   "peerDependencies": {

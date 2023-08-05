@@ -553,6 +553,7 @@ l.diffed = function(n2) {
   var { props: t3, __e: e3 } = n2;
   e3 != null && n2.type === "textarea" && ("value" in t3) && t3.value !== e3.value && (e3.value = t3.value == null ? "" : t3.value), tn = null;
 };
+
 // node_modules/preact/jsx-runtime/dist/jsxRuntime.module.js
 var o3 = function(o4, e3, n2, t3, f3, l3) {
   var s3, u3, a3 = {};
@@ -565,6 +566,7 @@ var o3 = function(o4, e3, n2, t3, f3, l3) {
   return l.vnode && l.vnode(i3), i3;
 };
 var _3 = 0;
+
 // src/test.tsx
 var Test = () => {
   p2(() => {
